@@ -65,3 +65,6 @@ chmod +x burpsuitepro
 ```
 cp burpsuitepro /bin/burpsuitepro
 ```
+```
+docker commit -m "version 1" crack_burpsuitepro crack_burpsuitepro:v1.1
+```
