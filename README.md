@@ -10,5 +10,15 @@ docker run -tid --privileged -v /dev/bus/usb:/dev/bus/usb -v /tmp/.X11-unix:/tmp
 docker exec -it crack_burpsuitepro bash
 ```
 ```
-apt update & apt install firefox
+apt update & apt install firefox-esr
+```
+```
+apt install git axel  openjdk-21-jdk -y
+```
+Pour choisir manuellement si il y a plusieurs openjdk
+```
+update-alternatives --config java
+```
+```
+git clone https://github.com/SitrakaResearchAndPOC/fork_Burpsuite-Professional-2025.git
 ```
