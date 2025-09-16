@@ -44,6 +44,14 @@ echo "Starting Key loader.jar..."
 ```
 (java -jar loader.jar) &
 ```
+Cracker :
+
+Copier la license sur le crack keygen loader.jar puis cliquer sur "Run.." </br>
+Choisir activation manuelle de burpsuitepro </br>
+Coller la license  dans burpsuitepro</br>
+Copier dans burpsuiteproo activation request puis coller sur request activation de keygen loader.jar </br>
+Copier activation response de keygen loader.jar puis coller sur burpsuitepro pour activer </br>
+
 # Execute Burpsuite Professional
 ```
 echo "Executing Burpsuite Professional..."
